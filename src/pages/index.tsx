@@ -32,13 +32,13 @@ const Home: React.FC = () => (
     />
     <Footer>
       <FooterText>
-        © 2021{' '}
+        © 2022{' '}
         <a
           href="https://github.com/junhoyeo/trendy-resume"
           target="_blank"
           rel="noreferrer"
         >
-          Junho Yeo
+          J1min
         </a>
         . All rights reserved.
       </FooterText>
